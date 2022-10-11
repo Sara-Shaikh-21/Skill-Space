@@ -2,7 +2,7 @@
   
   $servername ="localhost";
   $username ="root";
-  $password ="sarasaeed";
+  $password ="";
   $dbname="skillspace";
 
 try {
